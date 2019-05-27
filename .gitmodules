@@ -1,6 +1,3 @@
 [submodule "openfmri"]
 	path = openfmri
 	url = http://datasets.datalad.org/openfmri/.git
-[submodule "Places2"]
-	path = Places2
-	url = ./Places2
