@@ -2,6 +2,7 @@
 34d6a821-0a3e-44a6-b390-5a794128c2f0 root@d65c078d3c1b:~/datasets timestamp=1558725698.025330052s
 6281e68c-2f14-4174-a50e-f34172bcefbd datasets@docs:~/mila timestamp=1558723447.718908s
 7dece232-55c3-49c0-ad96-54182c09433f root@devmachine:/tmp/datalad timestamp=1558720687.946346s
+8761b3aa-9045-468e-a8ef-33b9816718df https://jupyterhub.gcp.mila.quebec/datasets/.git timestamp=1559074722.155811494s
 90732799-ea3a-41ac-81cb-3ad2a9f42225 root@devmachine:/tmp/datalad timestamp=1558716610.184496s
 934119f6-91d9-4010-abb0-5374bb5755fd datasets@docs:~/mila timestamp=1558723422.477174s
 a1426017-54a0-46b1-a2ed-5f18e7c09296 datasets@docs:~/mila timestamp=1558723183.583032s
