@@ -74,11 +74,11 @@ null
 "dataset1":
 {
 "content_info":
-"objects/7a/cn-aeb1b1e9bbf0e367be409d054c3f56.xz",
+"objects/af/cn-038f65bfedef8a132aa3d7b88c7f3a.xz",
 "datalad_version":
-"0.11.4",
+"0.11.6",
 "dataset_info":
-"objects/7a/ds-aeb1b1e9bbf0e367be409d054c3f56",
+"objects/af/ds-038f65bfedef8a132aa3d7b88c7f3a",
 "extractors":
 [
 "datalad_core",
@@ -87,7 +87,7 @@ null
 "id":
 "c77d5950-b881-11e9-bc49-42010a80001b",
 "refcommit":
-"24563325597f5152decb0918195a0a1caf753392"
+"87403a3f3da16f1ecead34dd28969a22a8bf86a8"
 },
 "openneuro":
 {
